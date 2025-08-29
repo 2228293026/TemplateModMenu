@@ -1,0 +1,8 @@
+/storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/obj/local/arm64-v8a/objs/MyLibName/Il2cpp/xdl/xdl_lzma.o: \
+  /storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/xdl_lzma.c \
+  /storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/xdl_lzma.h \
+  /storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/./include/xdl.h \
+  /storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/xdl_util.h
+/storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/xdl_lzma.h:
+/storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/./include/xdl.h:
+/storage/emulated/0/AideProjects/TemplateModMenu/app/src/main/jni/Il2cpp/xdl/xdl_util.h:
