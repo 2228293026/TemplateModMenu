@@ -1,6 +1,6 @@
 
 # Orig
-![Github](https://github.com/TheExploration/ETG-Mobile)
+https://github.com/TheExploration/ETG-Mobile
 
 # Introduction
 ![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Mod-Menu?style=flat-square)
