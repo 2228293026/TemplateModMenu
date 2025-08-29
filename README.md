@@ -1,5 +1,5 @@
 
-# Orig
+# ORIG
 https://github.com/TheExploration/ETG-Mobile
 
 # Introduction
